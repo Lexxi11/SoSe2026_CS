@@ -68,6 +68,8 @@ namespace SoSe2026_CS
             res2 = res2 % 27;
             Console.WriteLine(res2);
 
+            //Das ist ein Test!!!
+            //Wieso geht die scheiße nicht??
 
 
 
