@@ -11,10 +11,15 @@ internal class Program
         //testlol.Start();
         //Aufgabe2.Start();
         //Variablen.Start();
-        Aufgabe3.Start();
+        //Aufgabe3.Start();
+        //Aufgabe4.Start();
+        strOperationen.Start();
+        //AufgabeTeams.Start();
+
+
 
         //Das ist ein test!!!
-        
+
 
 
 
