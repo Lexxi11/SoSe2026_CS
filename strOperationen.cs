@@ -82,6 +82,12 @@ namespace SoSe2026_CS
             Console.WriteLine(vorname);   
             Console.WriteLine(vorname.ToLower());
 
+            // string.Trim() => gibt eine neue Zeichenfolge zurück, in der alle führenden und nachfolgenden Leerzeichen entfernt wurden
+            string dau = "  Das ist ein Test  lol rofl hhah ";
+            Console.WriteLine(dau + "hat die länge" + dau.Length);
+            dau = dau.Trim();
+            Console.WriteLine(dau + "hat die länge" + dau.Length);
+
 
 
         }
