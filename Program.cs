@@ -16,8 +16,8 @@ internal class Program
         //strOperationen.Start();
         //AufgabeTeams.Start();
         //Aufgabe5.Start();
-        //Eingabe.Start();
-        Aufgabe6.start();
+        Eingabe.Start();
+        
 
 
 
