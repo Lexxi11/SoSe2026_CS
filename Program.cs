@@ -13,8 +13,16 @@ internal class Program
         //Variablen.Start();
         //Aufgabe3.Start();
         //Aufgabe4.Start();
-        strOperationen.Start();
+        //strOperationen.Start();
         //AufgabeTeams.Start();
+        //Aufgabe5.Start();
+        //Eingabe.Start();
+        Aufgabe6.start();
+
+
+
+
+
 
 
 
