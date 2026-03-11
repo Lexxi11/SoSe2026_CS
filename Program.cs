@@ -16,8 +16,14 @@ internal class Program
         //strOperationen.Start();
         //AufgabeTeams.Start();
         //Aufgabe5.Start();
-        Eingabe.Start();
-        
+        //Eingabe.Start();
+        //CsBasicWHAufgaben.Start();
+        WHAufgaben.Start1();
+        WHAufgaben.Start2();
+        WHAufgaben.Start3();
+        WHAufgaben.Start4();
+
+
 
 
 
