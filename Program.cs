@@ -18,10 +18,15 @@ internal class Program
         //Aufgabe5.Start();
         //Eingabe.Start();
         //CsBasicWHAufgaben.Start();
-        WHAufgaben.Start1();
-        WHAufgaben.Start2();
-        WHAufgaben.Start3();
-        WHAufgaben.Start4();
+        //WHAufgaben.Start1();
+        //WHAufgaben.Start2();
+        //WHAufgaben.Start3();
+        //WHAufgaben.Start4();
+        //Konvert.Start();
+        //Array_Test.Start();
+        Aufgabe13.Start();
+
+
 
 
 
