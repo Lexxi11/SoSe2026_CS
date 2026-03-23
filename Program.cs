@@ -24,7 +24,11 @@ internal class Program
         //WHAufgaben.Start4();
         //Konvert.Start();
         //Array_Test.Start();
-        Aufgabe13.Start();
+        //Aufgabe13.Start();
+        //Tafelaufgabe.Start();
+        Kontrolle.Start();
+
+
 
 
 
